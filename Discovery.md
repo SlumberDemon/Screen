@@ -6,7 +6,7 @@ git: "https://github.com/SlumberDemon/Screen"
 homepage: "https://screenpond.cool/"
 ---
 
-ScreenPond lets you make fractals and the 'droste effect'. Watch the demonstration video: 📺 **[Screens in Screens in Screens](https://youtu.be/Q4OIcwt8vcE)**
+Screen lets you make fractals and the 'droste effect'. Watch the demonstration video: 📺 **[Screens in Screens in Screens](https://youtu.be/Q4OIcwt8vcE)**
 
 - Draw screens by clicking and dragging!
 - Press the number keys to change colour.
